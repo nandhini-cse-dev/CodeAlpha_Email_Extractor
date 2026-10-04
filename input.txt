@@ -1,0 +1,9 @@
+Hello Team,
+
+For any queries, contact us at support@example.com.
+
+You can also contact:
+john.doe@gmail.com
+admin@codealpha.com
+
+Thank you.
